@@ -49,22 +49,12 @@
 | 🌐 **Network Monitoring Dashboard** | Developed Python-based dashboard using Wireshark & Nmap data visualization | [View Repo](#) |
 | 🚗 **Automotive Cybersecurity Research** | Explored CAN bus vulnerabilities and V2X security protocols | [View Repo](#) |
 
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SreekanthPS&show_icons=true&theme=radical" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreekanthPS&layout=compact&theme=radical" height="180">
-</p>
-
----
 
 ### 🌎 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/sreekanthps"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sreekanthps@protonmail.com"><img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
-  <a href="https://github.com/SreekanthPS"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sreekanthps7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sreekanthkudallur@gmail.com"><img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
+  <a href="https://github.com/Sreekanth088"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
