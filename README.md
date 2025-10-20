@@ -1,11 +1,6 @@
 <!-- 🌐 SREEKANTH P S | CYBERSECURITY PORTFOLIO -->
 
 <!-- HEADER -->
-<p align="center">
-  <img src="![Uploading Gemini_Generated_Image_kifor4kifor4kifo.png…]()
-" width="800" alt="Cybersecurity Banner"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Sreekanth P S</h1>
 <h3 align="center">🚀 Cybersecurity Graduate | Ethical Hacker | Network Defender</h3>
 
@@ -59,10 +54,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://i.imgur.com/biGch7k.gif" width="300" alt="Cybersecurity Animation">
-</p>
 
 <p align="center">⚡ “Security is not a product, but a process.” – Bruce Schneier ⚡</p>
 
