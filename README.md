@@ -2,7 +2,8 @@
 
 <!-- HEADER -->
 <p align="center">
-  <img src="https://i.imgur.com/xEfrv04.png" width="800" alt="Cybersecurity Banner"/>
+  <img src="![Uploading Gemini_Generated_Image_kifor4kifor4kifo.png…]()
+" width="800" alt="Cybersecurity Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sreekanth P S</h1>
