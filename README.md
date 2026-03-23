@@ -1,7 +1,7 @@
 <!-- 🌐 SREEKANTH P S | CYBERSECURITY PORTFOLIO -->
 
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Sreekanth P S</h1>
+<h1 align="center">Hi 👋, I'm Sreekanth </h1>
 <h3 align="center">🚀 Cybersecurity Graduate | Ethical Hacker | Network Defender</h3>
 
 ---
